@@ -1,6 +1,8 @@
 # MediaMate
 Welcome to MediaMate, a modern YouTube clone application built with React JS and Material UI. With MediaMate, you can explore a variety of video categories and easily browse YouTube pages to watch your favorite videos.
 
+Check out the complete project [here](https://mediamate.aminahmadi.me/)
+
 ## Features
 - Discover videos by category
 - Browse YouTube pages and watch videos
